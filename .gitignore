@@ -1,0 +1,6 @@
+target/
+*.class
+.idea/
+.vscode/
+build.log
+index-backup.html
